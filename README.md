@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Working in 3D animation and other general media and design for online education.
+
+Avid Blender bug reporter.
+
 <!--
 **AMC-Albert/AMC-Albert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
