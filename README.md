@@ -2,6 +2,8 @@
 
 Working in 3D animation and other general media and design for online education.
 
+Hobby-tier developer.
+
 Avid Blender bug reporter.
 
 <!--
