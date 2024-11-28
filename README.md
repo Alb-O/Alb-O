@@ -2,9 +2,11 @@
 
 Working in 3D animation and other general media and design for online education.
 
-Hobby-tier developer.
-
-Avid Blender bug reporter.
+Interests:
+- 3D animation (Blender)
+- UX & UI design
+- Pipeline systems
+- FOSS tools & bug reporting
 
 <!--
 **AMC-Albert/AMC-Albert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
