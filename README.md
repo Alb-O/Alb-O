@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-Working in 3D animation and other general media and design for online education.
+Working in 3D animation and other general media and design for online training.
 
 Interests:
 - 3D animation (Blender)
-- UX & UI design
-- Pipeline systems
-- FOSS tools & bug reporting
+- Work pipeline systems
+- FOSS tools
 
 <!--
 **AMC-Albert/AMC-Albert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
