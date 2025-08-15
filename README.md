@@ -3,9 +3,10 @@
 Working in 3D animation and other general media and design for online training.
 
 Interests:
-- 3D animation (Blender)
+- Linux, NixOS
 - Work pipeline systems
 - FOSS tools
+- 3D animation (Blender)
 
 <!--
 **AMC-Albert/AMC-Albert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
