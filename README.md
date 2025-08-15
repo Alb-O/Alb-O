@@ -8,6 +8,8 @@ Interests:
 - FOSS tools
 - 3D animation (Blender)
 
+![](assets/nix-and-nixos-for-devops-1500x880.png)
+
 <!--
 **AMC-Albert/AMC-Albert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
