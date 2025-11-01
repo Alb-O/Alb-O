@@ -1,11 +1,11 @@
-## Hi there 👋
+## Ayo 👽
 
 Working in 3D animation and other general media and design for online training.
 
 Interests:
-- Linux, NixOS
-- Work pipeline systems
-- FOSS tools
+- Linux (NixOS)
+- Workflow/pipeline systems
+- Rust
 - 3D animation (Blender)
 
 ![](assets/nix-and-nixos-for-devops-1500x880.png)
